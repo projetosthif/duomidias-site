@@ -1,3 +1,3 @@
 # duomidias-site
 
-https://projetosthif.github.io/duomidias-site/index.html
+https://projetosthif.github.io/duomidias-site/duomidias/index.html
