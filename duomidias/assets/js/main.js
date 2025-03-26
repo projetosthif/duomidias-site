@@ -80,10 +80,7 @@
   }
   scrollTop.addEventListener('click', (e) => {
     e.preventDefault();
-    window.scrollTo({
-      top: 0,
-      behavior: 'smooth'
-    });
+    window.location.href = "https://api.whatsapp.com/send/?phone=11944799426&text&type=phone_number&app_absent=0"; 
   });
 
   window.addEventListener('load', toggleScrollTop);
